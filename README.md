@@ -8,4 +8,4 @@ Please download the pickle files from this link if you want to skip the training
 3. Week 3: Deploying our model on the Modal.com
 
 # Images
-
+<img width="887" height="592" alt="Image" src="https://github.com/user-attachments/assets/dfd90512-d599-4813-af0c-a55fc8724e35" />
